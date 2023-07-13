@@ -1,6 +1,6 @@
 Hi there 😇
-I’m Tanishq Vaidya 👨🏻‍💻
-- 🌱 I’m currently learning Computer Science.
+I’m Tanishq Vaidya 
+🌱 I’m currently learning Computer Science.
 
 
 <!---
