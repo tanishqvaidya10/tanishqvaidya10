@@ -1,10 +1,3 @@
-Hi there 😇
-
-I’m Tanishq Vaidya 
-
--🌱 I’m currently learning Computer Science.
-
--My Stack 🚀 Python,C
 
 
 <!---
